@@ -1,0 +1,16 @@
+{
+  "name": "socialos-telegram-bot",
+  "version": "1.0.0",
+  "description": "Social OS Telegram bot — LinkedIn content pipeline",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "2.7.0",
+    "node-telegram-bot-api": "0.66.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
